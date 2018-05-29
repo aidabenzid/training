@@ -11,6 +11,11 @@ commit3
 
 commit4
 commit4
+<<<<<<< HEAD
 commit4
 commit4
 commit4
+=======
+>>>>>>> f948f3c... add file 2
+
+
